@@ -10,6 +10,7 @@ For this project you are going to need nodejs to run it. You can download NodeJS
 Once nodejs is installed and your inside of the repo directory you can run the project with this command `node .\index.js`.
 
 
+
 ## Table of weeks for the course
 
 Weeks | content
